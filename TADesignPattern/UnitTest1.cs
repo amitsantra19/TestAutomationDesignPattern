@@ -9,6 +9,7 @@ namespace TADesignPattern
         [TestMethod]
         public void TestMethod1()
         {
+            Console.WriteLine("gitHub Test");
         }
     }
 }
